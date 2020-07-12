@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 This is the place where I break things and push bad commits.
 
-- 🔭 I’m working on some stuff xD.
+- 🔭 I’m working on some stuff.
 
 - 🌱 I’m currently learning React-Router and GraphQL.
 
