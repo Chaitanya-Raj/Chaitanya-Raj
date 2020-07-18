@@ -26,10 +26,12 @@ This is the place where I break things and push bad commits.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript  4 hrs 33 mins       █████████████░░░░░░░░░░░░   55.49 
-CSS         2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.12 
-Python      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.42 
-HTML        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24 
-JSON        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65
+Week #29 : July 13 - 18
+
+JavaScript  3 hrs 8 mins        ███████████████░░░░░░░░░░   60.12% 
+Python      56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+Go          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
+CSS         13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+HTML        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.25%
 ```
 <!--END_SECTION:waka-->
