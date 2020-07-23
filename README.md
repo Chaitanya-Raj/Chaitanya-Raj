@@ -26,10 +26,10 @@ This is the place where I break things and push bad commits.
 
 <!--START_SECTION:waka-->
 ```text
-Go          1 hr 29 mins        ███████████░░░░░░░░░░░░░░   43.65 % 
-JavaScript  1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.77 % 
-HTML        20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-JSON        17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-EJS         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Go           1 hr 29 mins    ███████████░░░░░░░░░░░░░░   44.60 % 
+JavaScript   1 hr 5 mins     ████████░░░░░░░░░░░░░░░░░   32.46 % 
+HTML         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+JSON         17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+EJS          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 <!--END_SECTION:waka-->
