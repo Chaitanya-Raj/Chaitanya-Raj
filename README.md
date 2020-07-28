@@ -10,7 +10,7 @@ This is the place where I break things and push bad commits.
 
 - 🔭 I’m working on some stuff.
 
-- 🌱 I’m currently learning React-Router and GraphQL.
+- 🌱 I’m currently learning Redux and GraphQL.
 
 - 👯 I’m open to collaborations.
 
