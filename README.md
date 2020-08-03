@@ -26,9 +26,7 @@ This is the place where I break stuff and bash my head on the keyboard.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 40 mins   ████████████████████████░   96.71 % 
-CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript   5 hrs 39 mins   ████████████████████████░   98.99 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 <!--END_SECTION:waka-->
