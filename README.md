@@ -2,17 +2,15 @@
 
 ---
 
-## Hello there 👋
-
 <!--
 **Chaitanya-Raj/Chaitanya-Raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-This is the place where I break stuff and bash my head on the keyboard.
+This is the place where I bash my head on the keyboard and break stuff.
 
-- 🔭 I’m working on some stuff.
+- 🔭 I’m working on some personal projects.
 
 - 🌱 I’m currently learning GraphQL.
 
