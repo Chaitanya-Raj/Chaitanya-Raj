@@ -10,7 +10,7 @@ This is the place where I break stuff and bash my head on the keyboard.
 
 - 🔭 I’m working on some stuff.
 
-- 🌱 I’m currently learning Redux and GraphQL.
+- 🌱 I’m currently learning GraphQL.
 
 - 👯 I’m open to collaborations.
 
