@@ -22,9 +22,9 @@ This is the place where I break stuff and bash my head on the keyboard.
 > Emperor Nero took the basic idea from Crassus and then built on it to form the Vigiles in AD 60 to combat fires using bucket brigades and pumps, as well as poles, hooks and even ballistae to tear down buildings in advance of the flames. The Vigiles patrolled the streets of Rome to watch for fires and served as a police force. The later brigades consisted of hundreds of men, all ready for action. When there was a fire, the men would line up to the nearest water source and pass buckets hand in hand to the fire.
 -->
 
-### 📊 This week I spent my time on
+<!-- ### 📊 This week I spent my time on -->
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 ```text
 JavaScript         4 hrs 44 mins   ███████████████████████░░   92.22 % 
 reStructuredText   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
@@ -32,4 +32,6 @@ CSS                2 mins          ░░░░░░░░░░░░░░░
 HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
+
+[![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=chaitanya-raj)](https://github.com/anuraghazra/github-readme-stats)
