@@ -22,7 +22,7 @@ This is the place where I bash my head on the keyboard and break stuff.
 > Emperor Nero took the basic idea from Crassus and then built on it to form the Vigiles in AD 60 to combat fires using bucket brigades and pumps, as well as poles, hooks and even ballistae to tear down buildings in advance of the flames. The Vigiles patrolled the streets of Rome to watch for fires and served as a police force. The later brigades consisted of hundreds of men, all ready for action. When there was a fire, the men would line up to the nearest water source and pass buckets hand in hand to the fire.
 -->
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_player.one/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chaitanya-raj-4b3285187/)
@@ -30,7 +30,7 @@ This is the place where I bash my head on the keyboard and break stuff.
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -51,18 +51,6 @@ This is the place where I bash my head on the keyboard and break stuff.
 
 <br />
 <br />
-
-<!-- ### 📊 This week I spent my time on -->
-
-<!--START_SECTION:waka
-```text
-JavaScript         4 hrs 44 mins   ███████████████████████░░   92.22 %
-reStructuredText   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-CSS                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
-END_SECTION:waka-->
 
 [![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=chaitanya-raj&count_private=true&show_icons=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-raj&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
