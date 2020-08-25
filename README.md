@@ -30,6 +30,7 @@ This is the place where I bash my head on the keyboard and break stuff.
 
 [<img align="left" height="30" src="https://raw.githubusercontent.com/chaitanya-raj/chaitanya-raj/master/icons/instagram.png?raw=true">](https://www.instagram.com/_player.one/)
 [<img align="left" height="30" src="https://raw.githubusercontent.com/chaitanya-raj/chaitanya-raj/master/icons/linkedin.png?raw=true">](https://www.linkedin.com/in/chaitanya-raj-4b3285187/)
+[<img align="left" height="30" src="https://raw.githubusercontent.com/chaitanya-raj/chaitanya-raj/master/icons/twitter.png?raw=true">](https://www.twitter.com/in/iamchaitanyaraj/)
 [<img align="left" height="30" src="https://raw.githubusercontent.com/chaitanya-raj/chaitanya-raj/master/icons/devto.png?raw=true">](https://dev.to/chaitanyaraj)
 
 <br />
