@@ -14,7 +14,7 @@ This is the place where I bash my head on the keyboard and break stuff.
 
 - 🔭 I’m working on some personal projects.
 
-- 🌱 I’m currently learning `GraphQL` and practicing using the `MERN Stack`.
+- 🌱 I’m currently working with `VueJs`, along with `Firebase` and `AWS Lambda`.
 
 - 👯 I’m open to collaborations.
 
