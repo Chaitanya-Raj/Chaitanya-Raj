@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" align="right"  width="30%"/>
 
-This is the place where I bash my head on the keyboard and break stuff.
+This is the place where I make and break stuff.
 
 - 🔭 I’m working on some personal projects.
 
