@@ -28,9 +28,9 @@ This is the place where I bash my head on the keyboard and break stuff.
 
 ### Connect with me
 
-[<img align="left" height="30" src="https://raw.githubusercontent.com/chaitanya-raj/chaitanya-raj/master/icons/instagram.png?raw=true">](https://www.instagram.com/_player.one/)
+[<img align="left" height="30" src="https://raw.githubusercontent.com/chaitanya-raj/chaitanya-raj/master/icons/instagram.png?raw=true">](https://www.instagram.com/_chaitanya.raj/)
 [<img align="left" height="30" src="https://raw.githubusercontent.com/chaitanya-raj/chaitanya-raj/master/icons/linkedin.png?raw=true">](https://www.linkedin.com/in/chaitanya-raj-4b3285187/)
-[<img align="left" height="30" src="https://raw.githubusercontent.com/chaitanya-raj/chaitanya-raj/master/icons/twitter.png?raw=true">](https://www.twitter.com/in/iamchaitanyaraj/)
+[<img align="left" height="30" src="https://raw.githubusercontent.com/chaitanya-raj/chaitanya-raj/master/icons/twitter.png?raw=true">](https://www.twitter.com/0xClef/)
 [<img align="left" height="30" src="https://raw.githubusercontent.com/chaitanya-raj/chaitanya-raj/master/icons/devto.png?raw=true">](https://dev.to/chaitanyaraj)
 
 <br />
@@ -39,6 +39,7 @@ This is the place where I bash my head on the keyboard and break stuff.
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
