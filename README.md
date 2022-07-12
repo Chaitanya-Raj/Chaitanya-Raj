@@ -18,7 +18,7 @@ This is the place where I make and break stuff.
 
 - 👯 I’m open to collaborations.
 
-- 💼 _I'm actively seeking internship opportunities._
+- 💼 _I'm actively seeking internship and job opportunities._
 
 <!--
 - ⚡ Fun fact: 
