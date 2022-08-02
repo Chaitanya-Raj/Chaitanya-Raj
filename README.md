@@ -14,7 +14,7 @@ This is the place where I make and break stuff.
 
 - 🔭 I’m working on some personal projects.
 
-- 🌱 I’m currently working with `React`, along with `Firebase`.
+- 🌱 I’m currently working with `NuxtJS`.
 
 - 👯 I’m open to collaborations.
 
