@@ -24,6 +24,10 @@ This is the place where I make and break stuff.
 - ⚡ Fun fact: 
 -->
 
+### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 
 
 ### Connect with me
