@@ -26,9 +26,9 @@ This is the place where I make and break stuff.
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🌮 [Inclusion](https://chaitanyaraj.hashnode.dev/inclusion)
- - 🚀 [Lazy Admin](https://chaitanyaraj.hashnode.dev/lazy-admin)
- - 💫 [Bounty Hacker](https://chaitanyaraj.hashnode.dev/bounty-hacker)<!-- BLOGPOSTS:END -->
+ - 🌮 [Inclusion](https://blog.chaitanyaraj.dev/inclusion)
+ - 🚀 [Lazy Admin](https://blog.chaitanyaraj.dev/lazy-admin)
+ - 💫 [Bounty Hacker](https://blog.chaitanyaraj.dev/bounty-hacker)<!-- BLOGPOSTS:END -->
 
 
 
