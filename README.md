@@ -26,10 +26,11 @@ This is the place where I make and break stuff.
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🌮 [How to be unproductive, unhappy, and make your life a living hell](https://blog.chaitanyaraj.dev/how-to-be-unproductive-unhappy-and-make-your-life-a-living-hell)
- - 🚀 [Inclusion](https://blog.chaitanyaraj.dev/inclusion)
- - 💫 [Lazy Admin](https://blog.chaitanyaraj.dev/lazy-admin)
- - 💯 [Bounty Hacker](https://blog.chaitanyaraj.dev/bounty-hacker)<!-- BLOGPOSTS:END -->
+ - 🌮 [The Guide to Living a Better Life](https://blog.chaitanyaraj.dev/better-life)
+ - 🚀 [How to be unproductive, unhappy, and make your life a living hell](https://blog.chaitanyaraj.dev/unproductive)
+ - 💫 [Inclusion](https://blog.chaitanyaraj.dev/inclusion)
+ - 💯 [Lazy Admin](https://blog.chaitanyaraj.dev/lazy-admin)
+ - 🌮 [Bounty Hacker](https://blog.chaitanyaraj.dev/bounty-hacker)<!-- BLOGPOSTS:END -->
 
 
 
