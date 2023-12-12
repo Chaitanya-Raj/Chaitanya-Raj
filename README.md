@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 [<img src="https://komarev.com/ghpvc/?username=Chaitanya-Raj&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/Chaitanya-Raj)
 
+<!--
 <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" align="right"  width="30%"/>
 
 This is the place where I make and break stuff.
@@ -19,6 +20,9 @@ This is the place where I make and break stuff.
 - 👯 I’m open to collaborations.
 
 - 💼 _I'm actively seeking internship and job opportunities._
+-->
+
+Working on stuff.
 
 <!--
 - ⚡ Fun fact: 
