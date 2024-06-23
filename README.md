@@ -30,11 +30,11 @@ Working on stuff.
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🌮 [The Guide to Living a Better Life](https://chaitanyaraj.hashnode.dev/better-life)
- - 🚀 [How to be unproductive, unhappy, and make your life a living hell](https://chaitanyaraj.hashnode.dev/unproductive)
- - 💫 [Inclusion](https://chaitanyaraj.hashnode.dev/inclusion)
- - 💯 [Lazy Admin](https://chaitanyaraj.hashnode.dev/lazy-admin)
- - 🌮 [Bounty Hacker](https://chaitanyaraj.hashnode.dev/bounty-hacker)<!-- BLOGPOSTS:END -->
+ - 🌮 [Unlocking the Secrets of Hacker101: Your First Capture the Flag Challenge](https://blog.chaitanyaraj.dev/unlocking-the-secrets-of-hacker101-your-first-capture-the-flag-challenge)
+ - 🚀 [The Guide to Living a Better Life](https://blog.chaitanyaraj.dev/better-life)
+ - 💫 [How to be unproductive, unhappy, and make your life a living hell](https://blog.chaitanyaraj.dev/unproductive)
+ - 💯 [Inclusion](https://blog.chaitanyaraj.dev/inclusion)
+ - 🌮 [Lazy Admin](https://blog.chaitanyaraj.dev/lazy-admin)<!-- BLOGPOSTS:END -->
 
 
 
